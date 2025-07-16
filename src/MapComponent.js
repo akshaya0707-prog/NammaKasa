@@ -8,7 +8,7 @@ const containerStyle = {
 
 // Sample looping route in Bangalore
 const route = [
-  { lat: 12.9716, lng: 77.5946 }, // MG Road
+  { lat: 12.9716, lng: 77.5946 }, // MG Roadgi
   { lat: 12.9750, lng: 77.6050 }, // Ulsoor
   { lat: 12.9800, lng: 77.6100 }, // Indiranagar
   { lat: 12.9850, lng: 77.6200 }, // Near Domlur
